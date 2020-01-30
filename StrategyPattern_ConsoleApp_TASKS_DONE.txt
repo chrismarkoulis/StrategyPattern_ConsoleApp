@@ -1,0 +1,32 @@
+
+(Strategy Pattern Implementation)
+	
+TASKS DONE:
+
+	- Product named T-Shirt  						 
+	that has three (3) variations:
+		               1. Color  					
+		               2. Sizes 					 
+		               3. Fabric                   
+
+	- each product can be paid via                   
+	  three (3) different payment methods
+	  				   1. Credit / Debit cards       
+					   2. Money / Bank Transfer		 
+					   3. Cash 						
+
+    - Strategy pattern that implements the 
+      variations and the payment
+      methods under three (3) combined strategies 
+      that implement all the possible
+      combinations as such:
+	   1. Color, Size and Fabric with Credit 		
+	       / Debit Cards 							
+	   2. Color, Size and Fabric with Money			
+	      / Bank Transfer							 
+       3. Color, Size and Fabric with Cash         
+
+
+
+
+					               
